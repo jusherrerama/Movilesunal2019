@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/new_game"
+        android:title="New Game One player"
+        />
+    <item android:id="@+id/help"
+        android:title="New Game Two player" />
+    <item android:id="@+id/difficult"
+        android:title="Change difficult" />
+    <item android:id="@+id/Quit"
+        android:title="Quit" />
+</menu>
+
+
