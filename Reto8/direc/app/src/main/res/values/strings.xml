@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Software Bogota</string>
+    <!-- TextView -->
+    <string name="username">NickName</string>
+    <string name="password">Contraseña</string>
+    <string name="confirmPassword">Confirme contraseña</string>
+    <string name="name">Nombre de la empresa</string>
+    <string name="url">Web Site</string>
+    <string name="phone">Telefono </string>
+    <string name="email">Correo</string>
+    <string name="service">Indique el servicio a prestar</string>
+    <string name="category">Indique la categoria de su servicio</string>
+    <!-- Button -->
+    <string name="login">Ingresa</string>
+    <string name="signUp">Registrate </string>
+    <string name="consultancy">Consultoría</string>
+    <string name="softwareDevelopment">Fabrica de software</string>
+    <string name="customDevelopment">Desarrollo a la medida</string>
+    <string name="viewCompanies">Consulta el direcrorio de empresas de SW de Bogota</string>
+    <string name="companySettings">Actualiza tu compañia</string>
+    <string name="delete">Dejar de pertenecer al directorio de empresas</string>
+    <string name="update">Actualizar informacion</string>
+    <!-- Spinner -->
+
+</resources>
