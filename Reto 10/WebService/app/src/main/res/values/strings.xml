@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name"> Eventos Salud Pública Quindío </string>
+
+    <string name="date">Fecha de evento</string>
+
+    <string name="search">Buscar</string>
+</resources>
